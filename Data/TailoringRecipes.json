@@ -1,0 +1,3886 @@
+[
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ostrich_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2093,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fireworks_(red)"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2057,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fireworks_(purple)"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2058,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fireworks_(green)"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2059,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ginger"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2090,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bug_steak"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2089,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cinder_shard"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2088,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_mushroom_tree_seed"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2087,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_qi_fruit"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2086,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dragon_tooth"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2085,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_radioactive_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2084,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_magma_cap"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1291,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_golden_coconut"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1297,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ginger_ale"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1292,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_banana_pudding"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1293,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_mango_sticky_rice"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1294,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_poi"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1295,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_tropical_curry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1296,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dinosaur_mayonnaise"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 5,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_seafoam_pudding"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1290,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_lucky_purple_shorts"
+    ],
+    "SecondItemTags": [
+      "item_gold_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": -71,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_artifact_trove"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1288,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wilted_bouquet"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1289,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_magic_rock_candy"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1997,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_red_mushroom"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2052,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_shrimp_cocktail"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1286,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_golden_pumpkin"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2070,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_geode"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1160,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_frozen_geode"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1161,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_magma_geode"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1162,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_field_snack"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1163,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pancakes"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1164,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pale_broth"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1165,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_vinegar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1166,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rice"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1268,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_quartz"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1167,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_seaweed"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1168,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_obsidian"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1169,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_soapstone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1170,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_tom_kha_soup"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1171,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fiddlehead_risotto"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1172,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_autumns_bounty"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1221,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_refined_quartz"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1220,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_torch"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1225,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_spicy_eel"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1226,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dinosaur_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2043,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_prehistoric_skull"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1004,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_prehistoric_tool"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1156,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_prehistoric_handaxe"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1156,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_prehistoric_tibia"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2049,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "fossil_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1208,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bone_flute"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1242,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "bone_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1014,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "scroll_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1222,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "dwarvish_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2046,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "totem_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2044,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_jack-o-lantern"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2048,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "cowboy_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1131,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ancient_sword"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1034,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_energy_tonic"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1137,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "alcohol_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1138,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_hay"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 6,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rainbow_shell"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1134,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "flower_item",
+      "season_fall"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sweet_pea"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1050,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "flower_item",
+      "season_summer"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 4,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fiber"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1176,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_clay"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1001,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dandelion"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1002,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bat_wing"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1003,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_mayonnaise"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1005,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "bomb_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1155,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_coffee_bean"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1154,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_duck_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1270,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_plum_pudding"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1271,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_crab_cakes"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1276,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_maple_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1275,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rhubarb"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1281,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_spice_berry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1281,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_octopus"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1278,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_tomato"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1282,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_salmon"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1279,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ghostfish"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1158,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sandfish"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1158,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_stir_fry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1274,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_radish_salad"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1277,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_chowder"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1283,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_squid_ink"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1285,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "id_o_812"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1272,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "id_o_447"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1284,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_poppyseed_muffin"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1273,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_triple_shot_espresso"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1269,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_coffee"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1269,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_green_tea"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1287,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_muscle_remedy"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1153,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sap"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1006,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fiddlehead_fern"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1007,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wild_horseradish"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1008,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_duck_mayonnaise"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1009,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bouquet"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1010,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ornamental_fan"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1265,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "honey_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 11,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pearl"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2069,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_frozen_tear"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1211,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dish_o_the_sea"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1214,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_glazed_yams"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1212,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_escargot"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1213,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_void_essence"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1215,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cave_carrot"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1011,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_duck_feather"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1012,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cranberry_candy"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1013,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_chanterelle"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1015,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_blueberry_tart"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1016,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_vegetable_medley"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1017,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_mudstone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1018,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bean_hotpot"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1020,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_complete_breakfast"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1000,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_survival_burger"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1247,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_lava_eel"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2045,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_caviar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2047,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_emerald"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1144,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_aquamarine"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1145,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_topaz"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1146,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_iron_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1148,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_copper_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1149,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_gold_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1150,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_iridium_bar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1151,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_goat_milk"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1024,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_l._goat_milk"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1025,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rice_pudding"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1026,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bug_meat"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1027,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_strange_bun"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1210,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_stone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1029,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fried_calamari"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1030,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_baked_fish"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1031,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_salmonberry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1032,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_salad"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1033,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_holly"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1035,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sashimi"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1036,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_maki_roll"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1037,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wool"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1038,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ice_cream"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1039,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_leek"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1042,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_snow_yam"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1044,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_hardwood"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1047,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wood"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1176,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_coal"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1048,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pink_cake"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1051,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_lucky_lunch"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1052,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_void_mayonnaise"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1272,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_roasted_hazelnuts"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1053,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_jade"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1147,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fried_eel"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1055,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cheese_cauliflower"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1249,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_carp_surprise"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1250,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_hashbrowns"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1251,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_tortilla"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1252,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_morel"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1257,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_spring_onion"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1258,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_super_meal"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1255,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_miners_treat"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2068,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wheat_flour"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1253,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sugar"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1254,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_oil"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1256,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_spaghetti"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1236,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fire_quartz"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1057,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_blackberry_cobbler"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1058,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pizza"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2057,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_chocolate_cake"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2058,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fish_taco"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2059,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pumpkin_soup"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1059,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pumpkin_pie"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1186,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_baryte"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1181,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_calcite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1182,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_esperite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1183,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_helvite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1201,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_jagoite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1187,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_lunarite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1188,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_malachite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1189,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_lemon_stone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1190,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_orpiment"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1191,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pyrite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1192,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ocean_stone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1193,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_tigerseye"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1194,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_jasper"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1195,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sandstone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1196,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fire_opal"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1197,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_hematite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1198,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_marble"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1199,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_star_shards"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1200,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_kyanite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1203,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_coconut"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1204,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_jamborite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1205,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fluorapatite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1206,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_petrified_slime"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1207,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rare_disc"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1185,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bread"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1061,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_opal"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1062,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rhubarb_pie"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1063,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_crystal_fruit"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1064,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cheese"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1066,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_daffodil"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1067,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_farmers_lunch"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1068,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_algae_soup"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1069,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fairy_stone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1070,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_milk"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1071,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1216,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_large_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1218,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fruit_salad"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1072,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_thunder_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1073,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_common_mushroom"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1074,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wild_bait"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1075,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cookie"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1077,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_crocus"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1078,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_blackberry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1079,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_alamite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1081,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_void_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1083,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "strange_doll_1"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1135,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "strange_doll_2"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1245,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "algae_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1248,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ancient_drum"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1243,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_golden_relic"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1244,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "id_o_124"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2067,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fried_egg"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1246,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_omelet"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1021,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ruby"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1085,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_slate"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1086,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_large_milk"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1217,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_parsnip_soup"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1088,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_amethyst"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1089,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "juice_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1209,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "pickle_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1091,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "jelly_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1092,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_goat_cheese"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1093,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_earth_crystal"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1094,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rabbits_foot"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1095,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_slime"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1096,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_basalt"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1097,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_neptunite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1098,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_purple_mushroom"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1099,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_celestine"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1100,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bixite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1101,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_limestone"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1102,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ghost_crystal"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1103,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_geminite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1104,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_joja_cola"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1105,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_battery_pack"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1106,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_nekoite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1107,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_crispy_bass"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1111,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fried_mushroom"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1112,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_pepper_poppers"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1180,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dolomite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1113,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_red_plate"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1184,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_solar_essence"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1219,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_diamond"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1224,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_prismatic_shard"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 0,
+    "CraftedItemIDs": [
+      "998",
+      "999",
+      "1223",
+      "1998",
+      "1999"
+    ],
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_treasure_chest"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2062,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_eggplant_parmesan"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1114,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_aerinite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1115,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_salmon_dinner"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1116,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_roots_platter"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1117,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_granite"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1122,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_bruschetta"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1123,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "food_sauce"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2063,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_fish_stew"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1124,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_lobster_bisque"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1125,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_coleslaw"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1126,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_blobfish"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2056,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_iridium_ore"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1179,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_chipped_amphora"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1227,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_arrowhead"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1228,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ancient_doll"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1229,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_elvish_jewelry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1230,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_chewing_stick"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1231,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "trash_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1232,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rusty_spoon"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1233,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_rusty_cog"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1234,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "id_o_113"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1235,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ancient_seed"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1237,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_dried_starfish"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1238,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_anchor"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1239,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_glass_shards"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1240,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_trout_soup"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1241,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "potion_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1263,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_starfruit"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 8,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_ancient_fruit"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 8,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sweet_gem_berry"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2065,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_omni_geode"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1264,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_truffle"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1262,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_truffle_oil"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1262,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_artichoke_dip"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1065,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_hazelnut"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1266,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_winter_root"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1267,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "fruit_tree_item",
+      "season_summer"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 13,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "fruit_tree_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 12,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "slime_egg_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 10,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "ore_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1178,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "flower_item",
+      "season_spring"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 3,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "flower_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_corn"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1128,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_sea_cucumber"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1142,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_super_cucumber"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1142,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_cactus_fruit"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1136,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_wheat"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1132,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "item_amaranth"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1141,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_vegetable",
+      "season_summer"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1129,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_vegetable",
+      "season_fall"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1140,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "tree_seed_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2053,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "syrup_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2054,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_vegetable"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1159,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "fertilizer_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1174,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "quality_fertilizer_item"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1175,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fish",
+      "fish_semi_rare"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 2055,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "fish_crab_pot",
+      "fish_ocean"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1261,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "fish_crab_pot",
+      "fish_freshwater"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1260,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fish",
+      "fish_ocean"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1259,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fish",
+      "fish_lake"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1157,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fish",
+      "fish_pond"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1157,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fish",
+      "fish_river"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1158,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "forage_item_beach"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1139,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fruits",
+      "season_summer"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 1,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  },
+  {
+    "FirstItemTags": [
+      "item_cloth"
+    ],
+    "SecondItemTags": [
+      "category_fruits"
+    ],
+    "SpendRightItem": true,
+    "CraftedItemID": 0,
+    "CraftedItemIDs": null,
+    "CraftedItemColor": "255 255 255"
+  }
+]
